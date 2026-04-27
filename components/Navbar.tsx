@@ -29,7 +29,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6281270826212"
               className="nav-links a nav-cta"
               style={{
                 display: "inline-block",
