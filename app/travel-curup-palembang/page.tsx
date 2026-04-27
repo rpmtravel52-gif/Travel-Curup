@@ -66,7 +66,7 @@ export default function TravelCurupPalembang() {
             agar Anda bisa memilih waktu yang paling sesuai.
           </p>
           <div className="hero-actions">
-            <a href="https://wa.me/6281234567890" className="btn-primary">
+            <a href="https://wa.me/6281270826212" className="btn-primary">
               <Phone size={16} /> Pesan Tiket Sekarang
             </a>
           </div>
@@ -277,7 +277,7 @@ export default function TravelCurupPalembang() {
               "@type": "LocalBusiness",
               "name": "Travel Curup",
               "url": "https://travelcurup.biz.id",
-              "telephone": "+6281234567890",
+              "telephone": "+6281270826212",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Curup",
