@@ -66,7 +66,7 @@ export default function TravelCurupLebong() {
             rutin antara Curup dan Lebong — tanpa perlu repot mencari kendaraan umum.
           </p>
           <div className="hero-actions">
-            <a href="https://wa.me/6281234567890" className="btn-primary">
+            <a href="https://wa.me/6281270826212" className="btn-primary">
               <Phone size={16} /> Pesan Tiket Sekarang
             </a>
           </div>
@@ -238,7 +238,7 @@ export default function TravelCurupLebong() {
             kami konfirmasi dalam hitungan menit.
           </p>
           <div className="cta-actions">
-            <a href="https://wa.me/6281234567890?text=Halo%2C+saya+ingin+pesan+tiket+travel+Curup-Lebong" className="btn-wa">
+            <a href="https://wa.me/6281270826212?text=Halo%2C+saya+ingin+pesan+tiket+travel+Curup-Lebong" className="btn-wa">
               💬 Pesan via WhatsApp
             </a>
           </div>
