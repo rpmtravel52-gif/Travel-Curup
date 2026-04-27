@@ -108,10 +108,10 @@ export default function SewaHiaceCurup() {
             transparan.
           </p>
           <div className="hero-actions">
-            <a href="https://wa.me/6281234567890" className="btn-primary">
+            <a href="https://wa.me/6281270826212" className="btn-primary">
               <Phone size={16} /> Tanya Harga Sekarang
             </a>
-            <a href="https://wa.me/6281234567890" className="btn-outline">
+            <a href="https://wa.me/6281270826212" className="btn-outline">
               💬 Chat WhatsApp
             </a>
           </div>
@@ -255,7 +255,7 @@ export default function SewaHiaceCurup() {
             tujuan, jumlah penumpang, dan tanggal — dan kami akan berikan penawaran terbaik.
           </p>
           <div className="cta-actions">
-            <a href="https://wa.me/6281234567890?text=Halo%2C+saya+ingin+menanyakan+sewa+Hiace+dari+Curup" className="btn-wa">
+            <a href="https://wa.me/6281270826212?text=Halo%2C+saya+ingin+menanyakan+sewa+Hiace+dari+Curup" className="btn-wa">
               💬 Minta Penawaran via WhatsApp
             </a>
           </div>
@@ -271,7 +271,7 @@ export default function SewaHiaceCurup() {
             "name": "Travel Curup – Sewa Hiace",
             "description": "Sewa Toyota Hiace harian dan charter di Curup, Bengkulu. Cocok untuk wisata rombongan dan perjalanan antar kota.",
             "url": "https://travelcurup.biz.id/sewa-hiace-curup",
-            "telephone": "+6281234567890",
+            "telephone": "+6281270826212",
             "address": {
               "@type": "PostalAddress",
               "addressLocality": "Curup",
