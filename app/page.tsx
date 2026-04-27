@@ -82,7 +82,7 @@ export default function Home() {
             tidak menguras kantong.
           </p>
           <div className="hero-actions">
-            <a href="https://wa.me/6281234567890" className="btn-primary">
+            <a href="https://wa.me/6281270826212" className="btn-primary">
               <Phone size={16} /> Pesan via WhatsApp
             </a>
             <Link href="/travel-curup-palembang" className="btn-outline">
@@ -159,7 +159,7 @@ export default function Home() {
           <h2>Siap Berangkat? Pesan Tiket Sekarang</h2>
           <p>Kami siap melayani Anda setiap hari. Konfirmasi melalui WhatsApp, mudah dan cepat.</p>
           <div className="cta-actions">
-            <a href="https://wa.me/6281234567890" className="btn-wa">
+            <a href="https://wa.me/6281270826212" className="btn-wa">
               💬 Chat WhatsApp
             </a>
           </div>
