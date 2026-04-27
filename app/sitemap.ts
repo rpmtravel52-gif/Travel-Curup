@@ -7,6 +7,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/travel-curup-palembang`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/travel-lebong-palembang`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/travel-curup-lebong`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.85 },
+    { url: `${base}/travel-bengkulu-palembang`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.85 },
     { url: `${base}/sewa-hiace-curup`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.85 },
   ];
 }
