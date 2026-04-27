@@ -30,7 +30,7 @@ export default function Footer() {
             <ul className="footer-links">
               <li style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
                 <Phone size={14} />
-                <a href="https://wa.me/6281234567890">+62 812-3456-7890</a>
+                <a href="https://wa.me/6281270826212">+62 812-7082-6212</a>
               </li>
               <li style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
                 <Clock size={14} />
